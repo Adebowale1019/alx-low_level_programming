@@ -6,7 +6,7 @@
  * return - (sucess) always
  **/
 char name[100];
-char name[] = Adebowale;
+char Adebowale[];
 {
 putchar("%s\n", Adebowale);
 putchar("\n");
