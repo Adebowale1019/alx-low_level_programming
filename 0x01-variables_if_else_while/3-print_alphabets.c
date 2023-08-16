@@ -1,19 +1,23 @@
 #include <stdio.h>
+
 /**
- * main - Entry point 
- * author - Adebowale
- * date - 8/15/2023 5:04am
- * return: (sucess) Always
- **/
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
-	char c;
-	char d;
-	for (c = 'a'; c <= 'z'; c++)
-		putchar(c);
-	for (d = 'A'; d <= 'Z'; d++)
-		putchar (d);
-	
-	return (0);
-}
 
+char c;
+
+for (c = 'a'; c <= 'z'; c++)
+putchar(c);
+
+for (c = 'A'; c <= 'Z'; c++)
+putchar(c);
+putchar('\n');
+
+return (0);
+
+}
