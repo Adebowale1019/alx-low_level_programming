@@ -4,7 +4,7 @@
 /**
  * puts_half - This function prints half of a string followed by a new line.
  * @str: pointer parameter
- * Author: sammykingx
+ * Author: Adebowale
  */
 void puts_half(char *str)
 {

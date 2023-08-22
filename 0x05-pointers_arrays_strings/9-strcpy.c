@@ -5,7 +5,7 @@
  * _strcpy - This function copies a string pointed to src and dest
  * @dest: poiter parameter
  * @src: poiter parameter
- * Author: sammykingx
+ * Author: Adebowale
  * Return: char
  */
 
