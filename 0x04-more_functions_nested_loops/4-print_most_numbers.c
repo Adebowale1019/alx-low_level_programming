@@ -1,7 +1,9 @@
 #include "main.h"
-
 /**
+ * main - Entry point
+ * author - adebowale
  * print_most_numbers - prints number
+ * return - 0 (success)
  **/
 
 void print_most_numbers(void)
